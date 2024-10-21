@@ -293,6 +293,9 @@ autoplay = "move"
 [node name="Platform3" parent="Platforms" instance=ExtResource("3_4xmdr")]
 position = Vector2(845, -21)
 
+[node name="Platform7" parent="Platforms" instance=ExtResource("3_4xmdr")]
+position = Vector2(845, 20)
+
 [node name="Platform4" parent="Platforms" instance=ExtResource("3_4xmdr")]
 position = Vector2(846, -88)
 
